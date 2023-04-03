@@ -525,3 +525,4 @@ This will allow us to run the application from the command line by just using it
 ```bash
 hello-maven
 ```Lab7
+# Lab7
